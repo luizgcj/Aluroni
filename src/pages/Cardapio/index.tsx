@@ -15,7 +15,7 @@ export default function Cardapio () {
         <main>
             <nav className={styles.menu}>
                 <Logo/>
-                Aluroni
+                Aluroni teste lulu
             </nav>
             <header className={styles.header}>
                 <div className={styles.header__text}>
